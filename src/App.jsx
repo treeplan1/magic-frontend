@@ -151,7 +151,7 @@ function LandingPage() {
           <div className="flex justify-between items-center h-16">
             {/* Logo */}
             <div className="flex items-center space-x-2">
-              <img src={logo} className=' w-50 h-50'/>
+              <img src={logo} className=' w-50 h-50 w-xs:h-30'/>
               {/* <Sparkles className="w-6 h-6 text-purple-600" />
               <span className="text-xl font-bold text-gray-900">MagicPen</span> */}
             </div>
