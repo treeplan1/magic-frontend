@@ -2,7 +2,7 @@ import { useState } from 'react'
 import { Sparkles, FileText, TrendingUp, Zap, ChevronDown, Menu, X, Mail, Lock, User, Eye, EyeOff } from 'lucide-react'
 import { AuthProvider, useAuth } from './contexts/AuthContext'
 import PromptPage from './components/PromptPage'
-import logo from "../src/assets/magic.jpg"
+import logo from "../src/assets/1000195692.png"
 import './App.css'
 
 // Landing Page Component
